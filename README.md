@@ -1,6 +1,5 @@
 # Android Stickers Apps for WhatsApp
 
-(https://raw.githubusercontent.com/vidit135g/Toon-Central/master/sf.png?token=AEZC7N6GQSZVDQUPZY6PJ4K47CZPI)
 
 "A journey to the old toon world"
 100% ad FREE, simple & clean stickers for WhatsApp.
